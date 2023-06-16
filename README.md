@@ -1,6 +1,6 @@
 # Тизизация Реакта
 
-Проект доступен по ссылке - https://react-ts-practice-one.vercel.app/
+Проект доступен по ссылке - https://react-typescript-practice.vercel.app/
 
 ## Стек   
 
